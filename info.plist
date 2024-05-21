@@ -228,7 +228,7 @@ Currently only commands which do not require options are working, such as:
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.0.1</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/gogamid/alfred-aerospace</string>
 </dict>
