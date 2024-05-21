@@ -9,6 +9,11 @@
 
 Aerospace Tiling Window Manager Extension for Alfred
 
+## Requirements
+
+- [AeroSpace](https://github.com/nikitabobko/AeroSpace) Get it with `brew install --cask nikitabobko/tap/aerospace`
+- Python3
+
 ## Usage
 
 ![usage](./images/usage.png)
